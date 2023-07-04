@@ -1,0 +1,38 @@
+html{
+    background-color:black;
+    color: white;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: 200%;
+}
+.car{
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 200px;
+    flex: 1;
+}
+
+.gmail{
+    width: 50px;
+    cursor: pointer;
+}
+.insta{
+    width: 50px;
+    cursor: pointer;
+}
+.fb{
+    width: 50px;
+    cursor: pointer;
+    margin-left: -5px;
+}
+g1>*{
+    flex: 1;
+
+}
+
+@media screen and (max-width: 600px)
+{
+
+}

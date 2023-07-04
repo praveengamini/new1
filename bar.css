@@ -1,0 +1,26 @@
+.fl{
+    display: flex;
+    justify-content: space-evenly;
+    height: 150px;
+   align-items: center;
+   gap: 20px;
+   font-size: 25px;
+
+}
+.fl1{
+    flex: 1;
+    
+
+}
+.fl2{
+    flex: 1;
+    
+
+}
+.fl3{
+    flex: 1;
+}
+.fl4{
+
+    flex: 1;
+}
